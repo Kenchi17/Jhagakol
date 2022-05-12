@@ -1,4 +1,4 @@
-^-------------*XDownloader Bot* v7.1.0--------------^
+^-------------*Bot UwU* v7.1.0--------------^
 
 
 Manual para poder usar correctamente el bot
